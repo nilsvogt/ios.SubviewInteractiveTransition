@@ -1,7 +1,7 @@
 SubviewInteractiveTransition
 ============================
 
-This is an example of how you can do interactive transitions on Subviews.
+This is an example of how you can handle interactive transitions on Subviews.
 
 In this demo..
 --------------
